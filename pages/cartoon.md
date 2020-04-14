@@ -1,9 +1,9 @@
 ---
 layout: page
 title: 不会笑青年
-titlebar: cartoon
-subtitle: <span class="mega-octicon octicon-organization"></span>&nbsp;&nbsp; 用漫画讲故事
-menu: cartoon
+titlebar: Linux&Docker
+subtitle: <span class="mega-octicon octicon-organization"></span>&nbsp;&nbsp; Linux&Docker 系列
+menu: Linux&Docker
 css: ['blog-page.css']
 permalink: /cartoon
 ---
