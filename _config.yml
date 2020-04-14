@@ -127,20 +127,20 @@ navs:
         subLabel: Java 技术
         target: _blank
 
-  -
+  # -
     
-    href: /python.html
-    label: Python
-    subnav:
+  #   href: /python.html
+  #   label: Python
+  #   subnav:
 
-      -
-        subHref: /python.html
-        subLabel: Python 教程
+  #     -
+  #       subHref: /python.html
+  #       subLabel: Python 教程
         
-      -
-        subHref: /python.html
-        subLabel: Python 技术
-        target: _blank
+  #     -
+  #       subHref: /python.html
+  #       subLabel: Python 技术
+  #       target: _blank
 
   -
     href: /archives.html
