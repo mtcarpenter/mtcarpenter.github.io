@@ -95,7 +95,7 @@ navs:
 
   -
     href: /cartoon.html
-    label: Cartoon
+    label: Linux&docker
     target: _self
 
   -
@@ -113,18 +113,18 @@ navs:
         subLabel: Spring Cloud
 
   -
-    href: http://www.justdojava.com
+    href: /java.html
     label: Java
     target: _blank
     subnav:
 
       -
-        subHref: /java.html
+        subHref: /java-jvm.html
         subLabel: Jvm 系列文章
         
       -
-        subHref: http://www.justdojava.com
-        subLabel: Java 极客技术
+        subHref: /java.html
+        subLabel: Java 技术
         target: _blank
 
   -
@@ -138,7 +138,7 @@ navs:
         subLabel: Python 教程
         
       -
-        subHref: http://www.justdopython.com
+        subHref: /python.html
         subLabel: Python 技术
         target: _blank
 
@@ -152,15 +152,15 @@ navs:
 # labels. my blog key words
 labels:
 
-  -
-    href: /payment.html
-    label: Pay     
-    target: _self
+  # -
+  #   href: /payment.html
+  #   label: Pay     
+  #   target: _self
 
-  -
-    href: /fastdfs.html
-    label: FastDFS
-    target: _blank
+  # -
+  #   href: /fastdfs.html
+  #   label: FastDFS
+  #   target: _blank
 
   -
     href: /mongodb.html
