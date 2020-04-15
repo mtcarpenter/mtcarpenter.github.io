@@ -30,9 +30,13 @@ vim 具有程序编辑的能力，可以主动的以字体颜色辨别语法的�
 >
 > `containerd` 是一个守护程序，它管理容器生命周期，提供了在一个节点上执行容器和管理镜像的最小功能集。
 
+
+
 **Docker** 在容器的基础上，进行了进一步的封装，从文件系统、网络互联到进程隔离等等，极大的简化了容器的创建和维护。使得 `Docker` 技术比虚拟机技术更为轻便、快捷。
 
 下面的图片比较了 **Docker** 和传统虚拟化方式的不同之处。传统虚拟机技术是虚拟出一套硬件后，在其上运行一个完整操作系统，在该系统上再运行所需应用进程；而容器内的应用进程直接运行于宿主的内核，容器内没有自己的内核，而且也没有进行硬件虚拟。因此容器要比传统虚拟机更为轻便。
+
+
 
 ![virtualization](https://mtcarpenter.oss-cn-beijing.aliyuncs.com/images/virtualization.png)
 
@@ -41,6 +45,8 @@ vim 具有程序编辑的能力，可以主动的以字体颜色辨别语法的�
 ![dd](https://mtcarpenter.oss-cn-beijing.aliyuncs.com/images/docker.png)
 
 <center>图 1.4.1.3 - Docker</center>
+
+
 
 ## 为什么要使用 Docker？
 
@@ -93,12 +99,13 @@ Docker 包括三个基本概念
 
 理解了这三个概念，就理解了 Docker 的整个生命周期。
 
+
 ## 文章参考
 
 - https://yeasy.gitbooks.io/docker_practice/content/
 
 
-## 代码示例:
+## 代码示例
 
 本文示例代码访问下面查看仓库：
 
