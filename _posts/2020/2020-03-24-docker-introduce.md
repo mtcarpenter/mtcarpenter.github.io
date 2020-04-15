@@ -34,11 +34,11 @@ vim 具有程序编辑的能力，可以主动的以字体颜色辨别语法的�
 
 下面的图片比较了 **Docker** 和传统虚拟化方式的不同之处。传统虚拟机技术是虚拟出一套硬件后，在其上运行一个完整操作系统，在该系统上再运行所需应用进程；而容器内的应用进程直接运行于宿主的内核，容器内没有自己的内核，而且也没有进行硬件虚拟。因此容器要比传统虚拟机更为轻便。
 
-![](https://mtcarpenter.oss-cn-beijing.aliyuncs.com/images/virtualization.png)
+![virtualization](https://mtcarpenter.oss-cn-beijing.aliyuncs.com/images/virtualization.png)
 
 <center>图 1.4.1.2 - 传统虚拟化</center>
 
-![](https://mtcarpenter.oss-cn-beijing.aliyuncs.com/images/docker.png)
+![dd](https://mtcarpenter.oss-cn-beijing.aliyuncs.com/images/docker.png)
 
 <center>图 1.4.1.3 - Docker</center>
 
