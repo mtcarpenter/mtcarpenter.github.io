@@ -23,14 +23,9 @@ vim 具有程序编辑的能力，可以主动的以字体颜色辨别语法的�
 ![](https://mtcarpenter.oss-cn-beijing.aliyuncs.com/images/docker-on-linux.png)
 
 <center>图 1.4.1.1 - Docker 架构<center>
+- `runc` 是一个 Linux 命令行工具，用于根据 [OCI容器运行时规范](https://github.com/opencontainers/runtime-spec) 创建和运行容器。
 
-
-
-> `runc` 是一个 Linux 命令行工具，用于根据 [OCI容器运行时规范](https://github.com/opencontainers/runtime-spec) 创建和运行容器。
->
-> `containerd` 是一个守护程序，它管理容器生命周期，提供了在一个节点上执行容器和管理镜像的最小功能集。
-
-
+- `containerd` 是一个守护程序，它管理容器生命周期，提供了在一个节点上执行容器和管理镜像的最小功能集。
 
 **Docker** 在容器的基础上，进行了进一步的封装，从文件系统、网络互联到进程隔离等等，极大的简化了容器的创建和维护。使得 `Docker` 技术比虚拟机技术更为轻便、快捷。
 
