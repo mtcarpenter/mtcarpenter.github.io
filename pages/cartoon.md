@@ -14,7 +14,7 @@ permalink: /cartoon
 
         <ul id="posts-list">
             {% for post in site.posts %}
-                {% if post.category=='cartoon' %}
+                {% if post.category=='Linux&Docker' %}
                 <li class="posts-list-item">
                     <div class="posts-content">
                         <span class="posts-list-meta">{{ post.date | date: "%Y-%m-%d" }}</span>
