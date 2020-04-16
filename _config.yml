@@ -17,7 +17,7 @@ favicon: favicon.ico
 
 repository: mtcarpenter/mtcarpenter.github.io
 github_url: https://mtcarpenter.github.io
-url: blog.lixc.top
+url: http://blog.lixc.top
 enforce_ssl: mtcarpenter.github.io
 
 ## Gem
