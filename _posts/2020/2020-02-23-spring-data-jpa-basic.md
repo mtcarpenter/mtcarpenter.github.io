@@ -4,11 +4,12 @@ title: 【Spring Data 系列学习】Spring Data JPA 基础查询
 category: springboot
 tags: [springboot]
 keywords: Spring Boot,spring data,JPA
+excerpt: Spring Data JPA 基础查询
 ---
 
 # 【Spring Data 系列学习】Spring Data JPA 基础查询
 
-前面的章节简单讲解了 [了解 Spring Data JPA 、 Jpa 和 Hibernate ](https://mp.weixin.qq.com/s/7dIxS3scphZRgruWF1gRog)，本章节开始通过案例上手 Spring boot Jpa 。
+前面的章节简单讲解了 [了解 Spring Data JPA 、 Jpa 和 Hibernate ](https://blog.lixc.top/springboot/2020/03/22/spring-data-jpa-hibernate.html)，本章节开始通过案例上手 Spring boot Jpa 。
 
 ## spring data
 
@@ -173,7 +174,7 @@ Hibernate: insert into user (age, name) values (?, ?)
 
 `spring.jpa.show-sql= true` 开启之后会在控制台输出 SQL 语句，在日常测试环境也能提高一定的开发效率。
 
-## 代码示例:
+## 代码示例
 
 本文示例代码访问下面查看仓库：
 

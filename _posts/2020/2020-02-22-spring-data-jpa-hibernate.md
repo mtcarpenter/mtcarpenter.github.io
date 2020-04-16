@@ -4,6 +4,7 @@ title: 【Spring Data 系列学习】了解 Spring Data JPA 、 Jpa 和 Hibernat
 category: springboot
 tags: [springboot]
 keywords: Spring Boot,spring data,JPA
+excerpt: 了解 Spring Data JPA 、 Jpa 和 Hibernate 
 ---
 
 # 【Spring Data 系列学习】了解 Spring Data JPA 、 Jpa 和 Hibernate 
