@@ -23,9 +23,7 @@ vim 具有程序编辑的能力，可以主动的以字体颜色辨别语法的�
 
 ![](https://mtcarpenter.oss-cn-beijing.aliyuncs.com/images/docker-on-linux.png)
 
-<center>图 1.4.1.1 - Docker 架构<center>
-
-
+图 1.4.1.1 - Docker 架构
 
 > `runc` 是一个 Linux 命令行工具，用于根据 [OCI容器运行时规范](https://github.com/opencontainers/runtime-spec) 创建和运行容器。
 >
