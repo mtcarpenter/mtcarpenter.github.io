@@ -94,7 +94,7 @@ public class User implements Serializable {
 
 ## 服务层
 
-**UserJpaRepository  **
+**UserJpaRepository** 
 
 ```java
 public interface UserJpaRepository extends JpaRepository<User,Long> {

@@ -4,6 +4,7 @@ title: 【Spring Data 系列学习】Spring Data JPA +Redis+cache 实现缓存
 category: springboot
 tags: [springboot]
 keywords: Spring Boot,spring data,JPA
+excerpt: Spring Data JPA +Redis+cache 实现缓存
 ---
 
 # 【Spring Data 系列学习】Spring Data JPA +Redis+cache 实现缓存

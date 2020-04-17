@@ -9,7 +9,7 @@ excerpt: Spring Data JPA 基础查询
 
 # 【Spring Data 系列学习】Spring Data JPA 基础查询
 
-前面的章节简单讲解了 [了解 Spring Data JPA 、 Jpa 和 Hibernate ](https://blog.lixc.top/springboot/2020/03/22/spring-data-jpa-hibernate.html)，本章节开始通过案例上手 Spring boot Jpa 。
+前面的章节简单讲解了 [了解 Spring Data JPA 、 Jpa 和 Hibernate ](https://blog.lixc.top/springboot/2020/02/22/spring-data-jpa-hibernate.html)，本章节开始通过案例上手 Spring boot Jpa 。
 
 ## spring data
 
