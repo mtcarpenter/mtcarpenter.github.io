@@ -297,3 +297,8 @@ sentinel            my                  000438df551d        15 hours ago        
 运行效果如下：
 ![image-20200402090658688.png](http://mtcarpenter.oss-cn-beijing.aliyuncs.com/2020/image-20200402090658688.png)
 
+## 代码示例
+
+更多系列文章请访问下面查看仓库：
+
+- *Github：* *https://github.com/mtcarpenter/spring-data-chapter*

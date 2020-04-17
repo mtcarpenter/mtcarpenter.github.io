@@ -23,7 +23,6 @@ vim 具有程序编辑的能力，可以主动的以字体颜色辨别语法的�
 
 ![](https://mtcarpenter.oss-cn-beijing.aliyuncs.com/images/docker-on-linux.png)
 
-图 1.4.1.1 - Docker 架构
 
 > `runc` 是一个 Linux 命令行工具，用于根据 [OCI容器运行时规范](https://github.com/opencontainers/runtime-spec) 创建和运行容器。
 >
@@ -35,11 +34,7 @@ vim 具有程序编辑的能力，可以主动的以字体颜色辨别语法的�
 
 ![](https://mtcarpenter.oss-cn-beijing.aliyuncs.com/images/virtualization.png)
 
-<center>图 1.4.1.2 - 传统虚拟化</center>
-
 ![](https://mtcarpenter.oss-cn-beijing.aliyuncs.com/images/docker.png)
-
-<center>图 1.4.1.3 - Docker</center>
 
 ## 为什么要使用 Docker？
 
@@ -96,3 +91,8 @@ Docker 包括三个基本概念
 
 - *https://yeasy.gitbooks.io/docker_practice/content/*
 
+## 代码示例
+
+更多系列文章请访问下面查看仓库：
+
+- *Github：* *https://github.com/mtcarpenter/spring-data-chapter*

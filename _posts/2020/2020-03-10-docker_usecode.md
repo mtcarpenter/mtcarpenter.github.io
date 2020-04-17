@@ -166,3 +166,8 @@ hello-world         latest              fce289e99eb9        15 months ago       
 [root@localhost ~]#
 ```
 
+## 代码示例
+
+更多系列文章请访问下面查看仓库：
+
+- *Github：* *https://github.com/mtcarpenter/spring-data-chapter*
