@@ -85,4 +85,5 @@ boot  etc  lib   media  opt  root  sbin  sys  usr
 
 更多系列文章请访问下面查看仓库：
 
-- *Github：* *https://github.com/mtcarpenter/spring-data-chapter*
+- *github：* [https://github.com/mtcarpenter/spring-data-chapter](https://github.com/mtcarpenter/spring-data-chapter)
+- *gitee* :      [https://gitee.com/mtcarpenter/spring-data-chapter](https://gitee.com/mtcarpenter/spring-data-chapter)

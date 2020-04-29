@@ -321,4 +321,5 @@ docker-compose up命令会聚合所有容器的输出，当命令退出时，所
 
 更多系列文章请访问下面查看仓库：
 
-- *Github：* *https://github.com/mtcarpenter/spring-data-chapter*
+- *github：* [https://github.com/mtcarpenter/spring-data-chapter](https://github.com/mtcarpenter/spring-data-chapter)
+- *gitee* :      [https://gitee.com/mtcarpenter/spring-data-chapter](https://gitee.com/mtcarpenter/spring-data-chapter)

@@ -268,7 +268,8 @@ public class UserServiceImplTest {
 
 本文示例代码访问下面查看仓库：
 
-- *Github：* https://github.com/mtcarpenter/spring-data-chapter
+- *github：* [https://github.com/mtcarpenter/spring-data-chapter](https://github.com/mtcarpenter/spring-data-chapter)
+- *gitee* :      [https://gitee.com/mtcarpenter/spring-data-chapter](https://gitee.com/mtcarpenter/spring-data-chapter)
 
 其中，本文示例代码名称：
 
