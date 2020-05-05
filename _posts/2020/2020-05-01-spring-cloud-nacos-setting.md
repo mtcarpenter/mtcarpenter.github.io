@@ -3,11 +3,9 @@ layout: post
 title: 【Spring Cloud Alibaba 微服务教程】 Nacos 快速安装
 category: springcloud
 tags: [springcloud]
-keywords: Spring Boot,Spring Cloud Alibaba
+keywords: Spring Boot,Spring Cloud Alibaba,nacos
 excerpt:  Nacos 快速安装
 ---
-
-
 
 # Nacos 快速安装
 

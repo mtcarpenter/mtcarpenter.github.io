@@ -143,7 +143,7 @@ navs:
   #       target: _blank
   -
     href: /wechat.html
-    label: wechat
+    label: 小程序
     target: _blank
   -
     href: /archives.html

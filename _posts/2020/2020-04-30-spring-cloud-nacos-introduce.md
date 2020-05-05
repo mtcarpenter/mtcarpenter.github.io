@@ -3,7 +3,7 @@ layout: post
 title: 【Spring Cloud Alibaba 微服务教程】 Nacos 的基本概述
 category: springcloud
 tags: [springcloud]
-keywords: Spring Boot,Spring Cloud Alibaba
+keywords: Spring Boot,Spring Cloud Alibaba,nacos
 excerpt:  Nacos 的基本概述
 ---
 
