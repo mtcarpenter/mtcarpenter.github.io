@@ -141,7 +141,10 @@ navs:
   #       subHref: /python.html
   #       subLabel: Python 技术
   #       target: _blank
-
+  -
+    href: /wecaht.html
+    label: wechat
+    target: _blank
   -
     href: /archives.html
     label: Archives
