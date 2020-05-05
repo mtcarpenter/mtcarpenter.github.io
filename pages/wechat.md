@@ -1,14 +1,46 @@
 ---
 layout: page
-title: 小程序 系列文章
+title: 山间木匠
 titlebar: 小程序
-subtitle: 
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-     <a href ="http://mtcarpenter.oss-cn-beijing.aliyuncs.com/logo/qrcode.jpg">关注公众号：<font color="#00FF00">山间木匠</font>，回复"wechat" 进群交流。</a>
+subtitle: <span class="mega-octicon octicon-organization"></span>&nbsp;&nbsp; 小程序系列教程
 menu: wechat
 css: ['blog-page.css']
 permalink: /wechat
-keywords: 小程序,小程序云开发,微信小程序
 ---
 
-{% include wechat.html %}
+<div class="row">
+
+    <div class="col-md-12">
+    
+        <ul id="posts-list">
+            {% for post in site.posts %}
+                {% if post.category=='wechat' %}
+                <li class="posts-list-item">
+                    <div class="posts-content">
+                        <span class="posts-list-meta">{{ post.date | date: "%Y-%m-%d" }}</span>
+                        <a class="posts-list-name bubble-float-left" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+                        <span class='circle'></span>
+                    </div>
+                </li>
+                {% endif %}
+            {% endfor %}
+        </ul> 
+    
+        <!-- Pagination -->
+        {% include pagination.html %}
+    
+        <!-- Comments -->
+       <div class="comment">
+         {% include comments.html %}
+       </div>
+    </div>
+
+</div>
+<script>
+    $(document).ready(function(){
+
+        // Enable bootstrap tooltip
+        $("body").tooltip({ selector: '[data-toggle=tooltip]' });
+    
+    });
+</script>
