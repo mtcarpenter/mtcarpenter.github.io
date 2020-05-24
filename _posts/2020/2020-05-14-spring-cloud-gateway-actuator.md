@@ -1,13 +1,13 @@
-```
+---
 layout: post
 title: 【Spring Cloud 微服务教程】 Spring Cloud Gateway 端点监控(actuator)
 category: springcloud
 tags: [springcloud]
 keywords: Spring Boot,Spring Cloud,Spring Cloud Gateway 
 excerpt:  Spring Cloud Gateway 端点监控(actuator)
-```
+---
 
-## Gateway 端点监控(actuator)
+## Spring Cloud Gateway 端点监控(actuator)
 
 ## 概述
 
