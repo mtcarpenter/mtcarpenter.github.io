@@ -3,7 +3,7 @@ layout: post
 title: 【Spring Cloud 微服务教程】 Spring Boot Admin
 category: springcloud
 tags: [springcloud]
-keywords: Spring Boot,Spring Cloud,Spring Cloud Gateway 
+keywords: Spring Boot,Spring Cloud,Spring Boot Admin 
 excerpt:  Spring Boot Admin 是一个开源社区项目，用于管理和监控 SpringBoot 应用程序。
 ---
 
